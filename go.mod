@@ -13,7 +13,7 @@ require (
 	github.com/anchore/stereoscope v0.0.0-20210413221244-d577f30b19e6
 	github.com/antihax/optional v1.0.0
 	github.com/bmatcuk/doublestar/v2 v2.0.4
-	github.com/docker/docker v17.12.0-ce-rc1.0.20200309214505-aa6a9891b09c+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/dustin/go-humanize v1.0.0
 	github.com/facebookincubator/nvdtools v0.1.4
 	github.com/go-test/deep v1.0.7
@@ -23,6 +23,7 @@ require (
 	github.com/hashicorp/go-version v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.3.1
+	github.com/moby/term v0.0.0-20221205130635-1aeaba878587 // indirect
 	github.com/olekukonko/tablewriter v0.0.4
 	github.com/package-url/packageurl-go v0.1.0
 	github.com/pelletier/go-toml v1.8.0
@@ -43,4 +44,5 @@ require (
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/mod v0.3.0
 	gopkg.in/yaml.v2 v2.3.0
+	gotest.tools/v3 v3.4.0 // indirect
 )
